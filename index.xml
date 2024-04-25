@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>valuskawu.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>学术数据仓库</title>
+    <link>https://valuska.github.io/</link>
+    <description>Recent content on 学术数据仓库</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Apr 2024 21:21:57 +0800</lastBuildDate>
-    <atom:link href="valuskawu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Apr 2024 21:45:18 +0800</lastBuildDate>
+    <atom:link href="https://valuska.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sociology</title>
+      <link>https://valuska.github.io/post/sociology/</link>
+      <pubDate>Thu, 25 Apr 2024 21:45:18 +0800</pubDate>
+      <guid>https://valuska.github.io/post/sociology/</guid>
+      <description>123123 </description>
+    </item>
     <item>
       <title>Data</title>
-      <link>valuskawu.github.io/post/data/</link>
+      <link>https://valuska.github.io/post/data/</link>
       <pubDate>Thu, 25 Apr 2024 21:21:57 +0800</pubDate>
-      <guid>valuskawu.github.io/post/data/</guid>
+      <guid>https://valuska.github.io/post/data/</guid>
       <description></description>
     </item>
   </channel>
